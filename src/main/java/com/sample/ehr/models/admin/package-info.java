@@ -1,0 +1,1 @@
+package com.sample.ehr.models.admin;
